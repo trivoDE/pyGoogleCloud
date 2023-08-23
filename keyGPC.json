@@ -1,1 +1,13 @@
-ádasdasnbdnasdb
+{
+    "type": "service_account",
+    "project_id": "root-bricolage-391916",
+    "private_key_id": "4a2a282873f2e0369bcf5d7528647e79506a73fa",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1uTvJMwAftU3m\nUycs5hcBGFyYKQp9Dxa4qC3QmrQdCvG5yuzXL2T1hUSvhleRn5z9zOblvmf2rsOv\ndlG80JvP7mjBHCLUVBvlfXgWxg01CCvK44uhZ6YAzE4wmeiAgqFW7W1rdWfb+74t\nKxKAk6uhs5Mz92jjeY+ooHMEAM5I/PI/6DZIwvUgzCxGq0JzLjnorY4wbcT1pX6F\n2hMxP0ZCjzJsyb6h2m8LeLq6OlSM+0QuwmpcyQOC6NAbnbhciSljKraOkOre5iah\n4RMeiEShUAsFVjOK3Sc7Hb8SGJKTS70WIE+/Z1SLjp5sEF9nfX3w+MavIi3HKERt\n2LyB92qLAgMBAAECggEAH1cLSwc7KbzEawkDNBiYdg1kBq/pSakdA4qpoBTWJD4b\ncy3ei7v2PuuVbWoPVyN+WT0JwyyD1ITOZcfTj+swO/uDYG6ASTsaNoldeRv98hvv\nJYX5skPkWrXhdDtO4D7nIU1ANiyg1U0EvthzT+5nxrLoG6m7EqQH1Q6a12FmMir2\nfon9ZFUYN/hpyt5V1fbd23So26ECbSxDyhEuAp2o4ZYxXh/HXa4hIkyAy3dyMMxs\nw5+1W3Aok2B5PHstfIRK2oFWftCQJ2HExLyL07EEFoM8ghhvVC1fbdBWRFyEoPsa\n8XRIMq1p4gvUahz5H9tOZCzVaqToWSQuABsg1PoWuQKBgQD1XlBA5fdRpvYAbByZ\n7RKx7GQtjvy4Ock7N3oI+jFmImpAm6VjHO/zHcJdrulER3oc9Er5LnQOJQGkbBQ4\nG1Na+TLjW4Z+z9q3GSPY8s7gkVUCQV6NIYJOWQF0oc1C6tqMR4a8I2IZgSjLmIH3\nYt9wWbsuA8psAfXwvd/1Zb28mQKBgQC9mPSzLzXxzDMngol6ac1NeT7ZeO9yLavt\n0W2MfYZ/U2kcQW/LBn7yYKspNfAvwrXV25B1lUOHcj3QqxO49EjyyGnjwMJxCwDg\nn+/TWK0nU4D5Q/aH1Ooa6igRHmLG0aMOWAujSLkaZEpLJMrjK04PO7rnlPf+Vbxr\nfGUoo14SwwKBgBg1X/GnPsl9kZPlFsVREKEhU5jzHJgIi4QeKxorpSgQiS8qrByl\nRD9WVlDr6vPjoXat25/OJ4ElwY25ZB1NBOJa59xqsVBdrZSXFGRZQHQDosGANZXz\nEmoseepJ9Hh/t2RTwkVZsFoX1jCQMXJ4/NaW49LcaOJTJzLDaQ9LJHcxAoGBAKX5\nL0Vo78VTZ/iPaoAx/Jp0qFNCbgK6/oY6zras8D+oKhylIBNQBXNysoNqB3AX+IxV\nIDn+x9XbaUexa5t+phl63k+VX+ILquH4wL54I2SI0h/jof44ohObpiWOPxQjUqVs\n6Asxz3DOGMd9VurU7wmg1TaDjzEjpsVFaVzQ3rp3AoGAC3xZgQ4WFENbc9JA5+oH\nRZnD056dL+A6bLNfm77nMhLhZd/KAb/WuuNTyMc6KAtTieI4eXPQjj3i8/spl27q\nu+yc0gKeEpPqqR05Yr7YyDeSiSBDZiM/kcccMHTp5CrPWCDzo/D9SIGuLZ6z6gw5\nP6KZn396PeioDmkhAHzrH+4=\n-----END PRIVATE KEY-----\n",
+    "client_email": "cloudstorage@root-bricolage-391916.iam.gserviceaccount.com",
+    "client_id": "107118807540649644921",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstorage%40root-bricolage-391916.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
